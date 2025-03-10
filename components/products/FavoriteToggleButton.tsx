@@ -1,3 +1,4 @@
+"use client"
 import {FaHeart} from 'react-icons/fa'
 import { Button } from '../ui/button'
 
