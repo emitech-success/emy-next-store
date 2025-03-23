@@ -5,7 +5,6 @@ import { toast } from "sonner"
 
 
 function SignOutLink() {
-  toast("Event has been created.")
   const handleLogout = () =>{
     toast("Logout successfully");
 
